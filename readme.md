@@ -6,6 +6,7 @@ planter_planter is a program for ESP32 that is embeded in the actual planter
 
 ## Configuration
 pin-out is confugured in file /src/Config.h
+MQTT broker connectian is defined in the same file!
 
 ## Installation
 

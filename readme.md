@@ -1,6 +1,9 @@
 # Smart planter - planter
 
 This repository is part of a smart planter project that consists of three parts.
+ - [planter_planter](https://github.com/hluj00/planter_planter)
+ - [planter_web](https://github.com/hluj00/planter_web)
+ - [planter_connector](https://github.com/hluj00/planter_connector)
 
 planter_planter is a program for ESP32 that is embeded in the actual planter
 
